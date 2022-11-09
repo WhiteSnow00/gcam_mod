@@ -1,0 +1,114 @@
+// 
+// Decompiled by Procyon v0.6.0
+// 
+
+public final class hjq
+{
+    public static final hki A;
+    public static final hki B;
+    public static final hki C;
+    public static final hki D;
+    public static final hki E;
+    public static final hki F;
+    public static final hkl G;
+    public static final hkj H;
+    public static final hki I;
+    public static final hki J;
+    public static final hkl K;
+    public static final hkl L;
+    public static final hkj M;
+    public static final hkj N;
+    public static final hkj O;
+    public static final hki P;
+    public static final hkl Q;
+    public static final hki R;
+    public static final hki a;
+    public static final hki b;
+    public static final hkj c;
+    public static final hkj d;
+    public static final hkl e;
+    public static final hkl f;
+    public static final hki g;
+    public static final hki h;
+    public static final hkl i;
+    public static final hkl j;
+    public static final hki k;
+    public static final hkl l;
+    public static final hkl m;
+    public static final hkl n;
+    public static final hki o;
+    public static final hki p;
+    public static final hki q;
+    public static final hki r;
+    public static final hki s;
+    public static final hki t;
+    public static final hkj u;
+    public static final hkj v;
+    public static final hki w;
+    public static final hki x;
+    public static final hki y;
+    public static final hki z;
+    
+    static {
+        a = new hki("pref_camera_recordlocation_key", hjp.b);
+        final Boolean value = true;
+        b = new hki("pref_dirty_lens_detector_key", value);
+        c = new hkj("pref_camera_grid_lines_mode", inp.a.e);
+        d = new hkj(hjp.a);
+        e = new hkl("pref_double_tap_key", "zoom");
+        f = new hkl("pref_volume_key_action", "shutter");
+        g = new hki("pref_camera_sounds_key", value);
+        final Boolean value2 = false;
+        h = new hki("pref_camera_single_shot_sound_key", value2);
+        i = new hkl("pref_camera_back_flashmode_key", hjp.c);
+        j = new hkl("pref_camera_front_flashmode_key", hjp.d);
+        k = new hki("pref_camera_selfie_flashmode_key", value2);
+        l = new hkl("pref_camera_video_back_flashmode_key", "off");
+        m = new hkl("pref_camera_video_front_flashmode_key", "off");
+        n = new hkl("pref_cuttlefish_front_torch_mode_key", "off");
+        o = new hki("pref_camera_video_back_flashmode_thermally_disabled_key", value2);
+        p = new hki("pref_camera_hdr_plus_back_flashmode_thermally_disabled_key", value2);
+        q = new hki("pref_video_stabilization_key", value);
+        r = new hki("pref_video_hevc_setting_key", hjp.e);
+        s = new hki("pref_video_quality_ultra_key", value2);
+        t = new hki("pref_first_time_video_stab_edu", value2);
+        final Integer value3 = 0;
+        u = new hkj("pref_video_stab_button_untouched_count", value3);
+        v = new hkj("pref_double_tap_launch_edu_count", value3);
+        w = new hki("pref_first_time_video_stab_tooltip", value2);
+        x = new hki("key_social_share_opt_in", value);
+        y = new hki("pref_has_set_social_share_apps", value2);
+        z = new hki("pref_has_checked_social_share", value2);
+        A = new hki("pref_has_checked_social_share_toggle", value2);
+        B = new hki("pref_has_checked_social_app_toggle", value2);
+        C = new hki("pref_has_share_successful", value2);
+        D = new hki("pref_storage_saver", value2);
+        E = new hki("pref_storage_saver_auto_disable", value2);
+        F = new hki("pref_raw_output_previous", value2);
+        G = new hkl("pref_camera_resolution_previous", "full");
+        H = new hkj("pref_microvideo_mode_previous", value3);
+        I = new hki("pref_video_hevc_previous", value2);
+        J = new hki("pref_dynamic_depth_previous", value2);
+        K = new hkl("pref_video_resolution_previous", hjh.a.name());
+        L = new hkl("pref_video_fps_previous", hjd.c.name());
+        final Long value4 = 0L;
+        new hkk("pref_last_survey_toast_timestamp", value4);
+        new hkk("pref_last_photo_taken_survey_toast_timestamp", value4);
+        new hkk("pref_last_photo_taken_survey_request_timestamp", value4);
+        new hkk("pref_last_dual_ev_survey_toast_timestamp", value4);
+        new hkk("pref_last_dual_ev_survey_request_timestamp", value4);
+        new hkk("pref_last_app_startup_survey_toast_timestamp", value4);
+        new hkk("pref_last_app_startup_survey_request_timestamp", value4);
+        new hkk("pref_updated_from_version_code", value4);
+        new hkk("pref_last_installed_version_code", value4);
+        new hkj("pref_update_available_chip_dismissal_times", value3);
+        new hkj("pref_last_available_update_version_code", value3);
+        new hkk("pref_last_available_update_timestamp", value4);
+        M = new hkj("pref_has_seen_vertical_pano_hint", value3);
+        N = new hkj("pref_camera_astro", egz.f(2));
+        O = new hkj("pref_camera_swiss", hjf.a(1));
+        P = new hki("pref_has_seen_permissions_dialogs", value2);
+        Q = new hkl("pref_camera_photosphere_orientation", "pano_photosphere");
+        R = new hki("pref_mars_enabled", value2);
+    }
+}

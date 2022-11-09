@@ -1,0 +1,12 @@
+// 
+// Decompiled by Procyon v0.6.0
+// 
+
+public final class mvm
+{
+    public static final mvh a;
+    
+    static {
+        a = new mvh("");
+    }
+}

@@ -1,0 +1,96 @@
+// 
+// Decompiled by Procyon v0.6.0
+// 
+
+package com.google.android.apps.camera.bottombar;
+
+public final class R$layout
+{
+    public static final int abc_action_bar_title_item = 2131623936;
+    public static final int abc_action_bar_up_container = 2131623937;
+    public static final int abc_action_menu_item_layout = 2131623938;
+    public static final int abc_action_menu_layout = 2131623939;
+    public static final int abc_action_mode_bar = 2131623940;
+    public static final int abc_action_mode_close_item_material = 2131623941;
+    public static final int abc_activity_chooser_view = 2131623942;
+    public static final int abc_activity_chooser_view_list_item = 2131623943;
+    public static final int abc_alert_dialog_button_bar_material = 2131623944;
+    public static final int abc_alert_dialog_material = 2131623945;
+    public static final int abc_alert_dialog_title_material = 2131623946;
+    public static final int abc_cascading_menu_item_layout = 2131623947;
+    public static final int abc_dialog_title_material = 2131623948;
+    public static final int abc_expanded_menu_layout = 2131623949;
+    public static final int abc_list_menu_item_checkbox = 2131623950;
+    public static final int abc_list_menu_item_icon = 2131623951;
+    public static final int abc_list_menu_item_layout = 2131623952;
+    public static final int abc_list_menu_item_radio = 2131623953;
+    public static final int abc_popup_menu_header_item_layout = 2131623954;
+    public static final int abc_popup_menu_item_layout = 2131623955;
+    public static final int abc_screen_content_include = 2131623956;
+    public static final int abc_screen_simple = 2131623957;
+    public static final int abc_screen_simple_overlay_action_mode = 2131623958;
+    public static final int abc_screen_toolbar = 2131623959;
+    public static final int abc_search_dropdown_item_icons_2line = 2131623960;
+    public static final int abc_search_view = 2131623961;
+    public static final int abc_select_dialog_material = 2131623962;
+    public static final int abc_tooltip = 2131623963;
+    public static final int activity_main = 2131623968;
+    public static final int bottom_bar_layout = 2131623973;
+    public static final int camera = 2131623979;
+    public static final int camera_overlay = 2131623980;
+    public static final int chameleon_ui = 2131623981;
+    public static final int custom_dialog = 2131623982;
+    public static final int cuttlefish_capture_overlay = 2131623983;
+    public static final int details = 2131624000;
+    public static final int dumpling_layout = 2131624004;
+    public static final int filmstrip_view = 2131624012;
+    public static final int intent = 2131624019;
+    public static final int keyguard_widget = 2131624021;
+    public static final int lasagna_layout = 2131624025;
+    public static final int lasagna_menu_layout = 2131624026;
+    public static final int mcfly_layout = 2131624046;
+    public static final int memory_monitor_container = 2131624050;
+    public static final int notification_action = 2131624072;
+    public static final int notification_action_tombstone = 2131624073;
+    public static final int notification_media_action = 2131624074;
+    public static final int notification_media_cancel_action = 2131624075;
+    public static final int notification_template_big_media = 2131624076;
+    public static final int notification_template_big_media_custom = 2131624077;
+    public static final int notification_template_big_media_narrow = 2131624078;
+    public static final int notification_template_big_media_narrow_custom = 2131624079;
+    public static final int notification_template_custom_big = 2131624080;
+    public static final int notification_template_icon_group = 2131624081;
+    public static final int notification_template_lines_media = 2131624082;
+    public static final int notification_template_media = 2131624083;
+    public static final int notification_template_media_custom = 2131624084;
+    public static final int notification_template_part_chronometer = 2131624085;
+    public static final int notification_template_part_time = 2131624086;
+    public static final int preference_category_first_layout = 2131624096;
+    public static final int preference_category_layout = 2131624097;
+    public static final int preference_category_layout_legacy = 2131624098;
+    public static final int preference_frequent_faces = 2131624103;
+    public static final int preference_social_share = 2131624109;
+    public static final int preference_storage_status = 2131624110;
+    public static final int preference_storage_status_legacy = 2131624111;
+    public static final int preference_with_action_button = 2131624117;
+    public static final int preference_with_expand_button = 2131624118;
+    public static final int preference_with_margin = 2131624119;
+    public static final int preference_with_no_icon = 2131624120;
+    public static final int preference_with_social_app_margin = 2131624121;
+    public static final int preference_with_social_app_margin_legacy = 2131624122;
+    public static final int remote_control = 2131624124;
+    public static final int search_view_preference = 2131624134;
+    public static final int secure_album_placeholder = 2131624135;
+    public static final int select_dialog_item_material = 2131624136;
+    public static final int select_dialog_multichoice_material = 2131624137;
+    public static final int select_dialog_singlechoice_material = 2131624138;
+    public static final int settings_action_bar_layout = 2131624141;
+    public static final int settings_activity_layout = 2131624142;
+    public static final int settings_activity_layout_legacy = 2131624143;
+    public static final int support_simple_spinner_dropdown_item = 2131624160;
+    public static final int toggle_layout = 2131624165;
+    public static final int toggle_view_contents = 2131624166;
+    public static final int washington_layout = 2131624172;
+    public static final int washington_menu_layout = 2131624173;
+    public static final int zoom_lock_layout = 2131624192;
+}

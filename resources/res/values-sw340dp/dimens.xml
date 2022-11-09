@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_bar_side_content_size">72dp</dimen>
+    <dimen name="mode_chip_inset_horizontal">1dp</dimen>
+    <dimen name="mode_chip_minWidth">77dp</dimen>
+    <dimen name="more_modes_font_size">14dp</dimen>
+    <dimen name="more_modes_grid_bottom_padding">21dp</dimen>
+    <dimen name="options_menu_label_margin_left">6dp</dimen>
+    <dimen name="options_scroll_view_margin">6dp</dimen>
+    <dimen name="options_side_padding">4dp</dimen>
+    <dimen name="shared_mode_chip_view_inset_horizontal">1dp</dimen>
+    <dimen name="shared_mode_chip_view_minWidth">77dp</dimen>
+    <dimen name="zoom_dot_trans_adjust">15dp</dimen>
+    <dimen name="zoom_lock_icon_offset">-35dp</dimen>
+    <dimen name="zoom_lock_view_width">154dp</dimen>
+    <dimen name="zoom_lock_width">45dp</dimen>
+</resources>

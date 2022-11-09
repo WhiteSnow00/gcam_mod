@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="google_toolbar_text_size_subtitle">12dp</dimen>
+    <dimen name="google_toolbar_text_size_title">14dp</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_bottom">24dp</dimen>
+    <dimen name="mtrl_alert_dialog_background_inset_top">24dp</dimen>
+    <dimen name="photosphere_overlay_message_short_layout_height">113dp</dimen>
+    <dimen name="photosphere_overlay_message_short_layout_marginTop">0dp</dimen>
+    <dimen name="photosphere_overlay_message_short_layout_width">246dp</dimen>
+</resources>

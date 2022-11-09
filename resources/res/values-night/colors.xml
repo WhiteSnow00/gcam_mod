@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="storage_card_background_low">@color/google_transparent</color>
+    <color name="storage_card_background_normal">@color/google_transparent</color>
+    <color name="storage_card_background_out">@color/google_transparent</color>
+</resources>
